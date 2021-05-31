@@ -5,7 +5,7 @@
 I'm a systems analyst passionate about code that delivers value to the world.
 
 - 📚 I am a software developer I work as a full stack but I am a backend specialist.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/wilson-lucena-67450986) | [Gmail](mailto:wilsonllucena@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/wilsonlimalucena) | [Gmail](mailto:wilsonllucena@gmail.com)
 
 
 ## ⚡ Technologies 
