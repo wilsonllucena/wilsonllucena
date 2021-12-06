@@ -12,7 +12,7 @@ I'm a systems analyst passionate about code that delivers value to the world.
 - Front-end development using **Angular, React, React Native, HTML  , Javascript, CSS,Tailwind CSS , Bootstrap**
 - Backend development using **PHP, NodeJS, Docker , Postgres, Mysql , SQL Server, Oracle, Mongo , Redis**
 - Frameworks PHP **Laravel, Symfony, Zend**
-- Frameworks Node **Express, Adonis**
+- Frameworks Node **Express, Adonis, Estudando NestJs**
 
 
 
