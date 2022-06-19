@@ -14,6 +14,7 @@ I'm a systems analyst passionate about code that delivers value to the world.
 - Databases **Postgres, Mysql , SQL Server, Oracle, Mongo , RabbitMQ, Azure Service Bus, Redis**
 - Frameworks/Lib Node **Express, NestJS, Adonis**
 - Frameworks PHP **Laravel, Symfony, Zend**
+- Languages: **PHP, Javascript (Node) and Ruby (Ruby on Rails)**
 
 
 
