@@ -15,7 +15,6 @@ I'm a systems analyst passionate about code that delivers value to the world.
 - Frameworks/Lib Node **Express, NestJS, Adonis**
 - Frameworks PHP **Laravel, Symfony, Zend**
 - Frameworks Java **Spring Boot**
-- Languages: **Javascript (Node) PHP , Java**
 
 
 
